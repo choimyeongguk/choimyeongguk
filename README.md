@@ -7,12 +7,14 @@ Korea University, Computer Science & Engineering, 2024<br>
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+<br>
 <div>
   <a href="mailto:choimk0512@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/choimk0512@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br>
   <a href="mailto:choimk0512@korea.ac.kr" target="_blank">
-    <img src="https://img.shields.io/badge/School mail-862633.svg?style=flat-square&logo=Naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/choimk0512@korea.ac.kr-8b0029.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 <br>

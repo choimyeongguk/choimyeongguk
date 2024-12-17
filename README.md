@@ -9,8 +9,6 @@ Korea University, Computer Science & Engineering, 2024<br>
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choimyeongguk)
-
 ## BOJ PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlar0512)](https://solved.ac/chlar0512/)
 

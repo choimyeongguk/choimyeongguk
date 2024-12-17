@@ -1,9 +1,6 @@
 ## About me
 Korea University Computer Science & Engineering
 
-## Language
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=C">
-
 
 <!--
 **choimyeongguk/choimyeongguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
